@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Charlie's portfolio
 
-git push -u origin main
+Isn't it great.
